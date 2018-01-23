@@ -301,7 +301,7 @@ SvgUri.propTypes = {
     PropTypes.number,
     PropTypes.object,
     PropTypes.array,
-  ],
+  ]),
   width: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),
   height: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),
   svgXmlData: PropTypes.string,
